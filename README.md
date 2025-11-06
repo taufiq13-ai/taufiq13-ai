@@ -38,6 +38,7 @@ ASP Classic, VBScript, SQL Server Management Studio
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=taufiq13-ai&show_icons=true&theme=radical&hide_border=true" alt="taufiq13-ai's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=taufiq13-ai&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" alt="taufiq13-ai's GitHub Stats" />
 </p>
+
 
